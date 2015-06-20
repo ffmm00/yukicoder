@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N98 {
+public class N098 {
 
 	public static void main(String[] args) {
 
